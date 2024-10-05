@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Web Design",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "images/icon1.png"
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "images/icon2.png"
+    },
+    {
+      "id": 3,
+      "title": "Android App",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "images/icon3.png"
+    },
+    {
+      "id": 4,
+      "title": "Photography",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "images/icon4.png"
+    },
+    {
+      "id": 5,
+      "title": "Content Writing",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "images/icon5.png"
+    },
+    {
+      "id": 6,
+      "title": "Video Editing",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "image": "images/icon6.png"
+    }
+  ]
+  

@@ -65,6 +65,10 @@ header
     align-items: center;
     transition: 0.5s;
 }
+
+/* whakawiri added */
+
+
 header.sticky
 {
     background: #fff;
@@ -94,15 +98,16 @@ header ul li
     position: relative;
     list-style: none;   
 }
-header ul li a
+header ul li
 {
     position: relative;
     display: inline-block;
     margin: 0 15px;
+    cursor: pointer;
     color:#fff;
     text-decoration: none;
 }
-header.sticky ul li a
+header.sticky ul li
 {
     color: #111;
 }
@@ -218,7 +223,7 @@ img
     {
         left: 0;
     }
-    header ul li a
+    header ul li 
     {
         color: #111;
         font-size: 30px;       
